@@ -1,0 +1,11 @@
+.h-screen-90 {
+    height: 90vh;
+}
+
+.font-fancy {
+    font-family: 'Passion One', cursive;
+}
+
+.font-casual {
+    font-family: 'Raleway', sans-serif;
+}
