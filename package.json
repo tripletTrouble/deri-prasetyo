@@ -1,0 +1,27 @@
+{
+  "name": "landing-page",
+  "version": "1.0.0",
+  "description": "My personal landing page",
+  "main": "index.js",
+  "scripts": {
+    "watch": "npx tailwindcss -i ./src/app.css -o ./asset/css/style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tripletTrouble/landing-page.git"
+  },
+  "keywords": [
+    "landing",
+    "page",
+    "personal"
+  ],
+  "author": "tripletTrouble",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tripletTrouble/landing-page/issues"
+  },
+  "homepage": "https://github.com/tripletTrouble/landing-page#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.1.5"
+  }
+}
